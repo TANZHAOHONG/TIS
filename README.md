@@ -27,3 +27,6 @@ I am an undergraduate student pursuing a degree in Computer Science with the foc
 - SECP1513 TECHNOLOGY AND INFORMATION SYSTEM
 - SEBB4173 CELL AND MOLECULAR BIOLOGY
 - ULRS1032 INTEGRITY AND ANTI-CORRUPTION
+
+**#Project**
+- Lift Electronic Controller System
